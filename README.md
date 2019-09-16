@@ -1,6 +1,7 @@
 # battery_plugin_gazebo
 
-Uses `battery_plugin` and `battery_consumer_plugin` packages in it
+Uses `battery_plugin` and `battery_consumer_plugin` packages in it.
+Need to export proper plugin path before running the simulation
 
 Steps to run the code:
 ```
