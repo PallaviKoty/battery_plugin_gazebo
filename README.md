@@ -1,5 +1,6 @@
 # battery_plugin_gazebo
 
+Uses `battery_plugin` and `battery_consumer_plugin` packages in it
 
 Steps to run the code:
 ```
